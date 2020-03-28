@@ -14,9 +14,9 @@ poderão cadastrar seus casos e as pessoas interessadas poderão visualizar, ent
 
 ## Tecnologias utilizadas :computer:
 
- - <span><img href="https://reactnative.dev/" src="https://img.shields.io/badge/ReactNative-Mobile-red.svg"/></span>
- - <span><img href="https://nodejs.org/en/" src="https://img.shields.io/badge/NodeJS-Backend-red.svg"/></span>
- - <span><img href="https://pt-br.reactjs.org/" src="https://img.shields.io/badge/React-Frontend-red.svg"/></span>
+ - <span><a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/ReactNative-Mobile-red.svg"/></a></span>
+ - <span><a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/NodeJS-Backend-red.svg"/></a></span>
+ - <span><a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/React-Frontend-red.svg"/></a></span>
 
 ---
 
