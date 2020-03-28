@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./frontend/src/assets/logo-bethehero.png"/>
+<img src="./frontend/src/assets/logo.svg"/>
 <br>Projeto Be The Hero - Seja um heroi para alguém
 </h4>
 <p align="center">
